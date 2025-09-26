@@ -161,3 +161,4 @@ dfs.append(tmp)
 df = pd.concat(dfs,axis=1)
 
 df.to_feather('./input/nn_all_feature.feather')
+
