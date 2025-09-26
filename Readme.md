@@ -107,10 +107,10 @@ To reproduce the results, follow these steps:
 ## Dependencies
 
 This project relies on the following major libraries:
-
   - `pandas`
   - `numpy`
   - `lightgbm`
   - `torch`
   - `tqdm`
   - `matplotlib`
+
